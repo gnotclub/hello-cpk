@@ -1,0 +1,4 @@
+NAME="hello-cpk"
+DESCRIPTION="Example library for the cpk C package manager"
+VERSION="0.1.0"
+BUILD=make
